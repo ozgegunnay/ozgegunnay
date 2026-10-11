@@ -1,46 +1,30 @@
-# Özge Günay
+# Hi, I'm Özge 👋
 
-Mathematics Engineering student focused on Artificial Intelligence, Machine Learning, and Image Processing. I build systems that connect mathematical theory with real-world problems.
+Final-year **Mathematical Engineering** student at Yıldız Technical University and **Business Analyst Intern** in Global Payment Solutions at **HSBC Türkiye**.
+I work on **NLP, machine learning and data analytics**, and I enjoy explaining the math behind the models.
 
----
+### 🔭 What I'm working on
+- **Senior thesis:** an NLP analytics platform for Turkish customer reviews (data collection → BERTurk sentiment analysis → dashboard)
+- **ML from scratch:** implementing core ML algorithms with NumPy only, alongside my Medium writing
+- Weekly commits. This profile is updated every Sunday
 
-## About
+### 💼 Experience
+- **HSBC Türkiye**: Business Analyst Intern, Global Payment Solutions *(2026 – present)*
+- **VakıfBank R&D**: built BERT-based Turkish sentiment analysis for customer reviews and benchmarked it against NB, SVM and LogReg *(2025)*
 
-- 3rd year Mathematics Engineering student
-- TÜBİTAK 2209-A researcher — Drone-Assisted Ambulance Traffic System
-- TEKNOFEST Artificial Intelligence in Aviation competitor
-- Miuul Machine Learning Program graduate
-- Skylab Artificial Intelligence Research Team member
-- Model United Nations participant
+### 🏆 Projects & competitions
+| Project | What | Stack |
+|---|---|---|
+| [vakifbank-sentiment-analysis](https://github.com/ozgegunnay/vakifbank-sentiment-analysis) | Turkish banking review sentiment analysis (BERTurk vs. classical ML) | Python, Transformers, scikit-learn |
+| [drone-ambulans-trafik-sim](https://github.com/ozgegunnay/drone-ambulans-trafik-sim) | TÜBİTAK 2209-A: drone-assisted ambulance traffic clearance simulation | Python, Pygame |
+| KKB Hackathon: Agentic AI for Data Analytics | Lakehouse agent builder with open-weight LLMs | Python, LLM agents |
+| TEKNOFEST 2026 AI in Healthcare: PATOGEN | Disease detection, full ML pipeline from data to evaluation | Python, PyTorch |
 
----
+### 🛠 Tech stack
+`Python` `SQL` `PyTorch` `scikit-learn` `pandas` `NumPy` `Transformers / BERT` `OpenCV` `MATLAB` `C` `Git` `Linux`
 
-## Tech Stack
+### ✍️ Writing
+- [The Mathematical Anatomy of the Algorithms Behind Code and Libraries](https://medium.com/@ozgegunay64) (Medium, YTÜ SkyLab)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## Featured Projects
-
-**[Drone-Assisted Ambulance Traffic Clearance System](https://github.com/ozgegunnay/drone-ambulans-trafik-sim)**  
-TÜBİTAK 2209-A — Pygame simulation of an autonomous drone clearing traffic lanes ahead of ambulances. Vehicles detect the drone and change lanes automatically to reduce emergency response time.
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozgegunnay&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgegunnay&layout=compact&theme=default&hide_border=true)
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/ozgegunayy/) · [ozgegunay64@gmail.com](mailto:ozgegunay64@gmail.com)
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/ozgegunayy) · [Medium](https://medium.com/@ozgegunay64) · ozgegunay64@gmail.com
